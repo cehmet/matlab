@@ -1,0 +1,1 @@
+Görüntü iþleme ve matematik uygulamalarýný içerir. 
